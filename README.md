@@ -21,7 +21,7 @@ Introduces the basics of python programming libraries for data science. Use of p
 
 * Week 3 assignment: More Pandas: Intricate Data cleaning and manipulation. Imported three datasets which were cleaned, joined and reduced. Explored the data and investigated the summary statistics and correlations.
 
-* Week 4 assignment: Hypothesis Testing Hypothesis testing looking at the effect of the 2008 recession on house prices in university towns. three datasets were cleaned and merged. The recession start, length and bottom were found from timeseries GDP data and finally a t-test was performed to test the hypothesis "University town house prices are less affected by a recession"
+* Week 4 assignment: Hypothesis Testing: This assignment tests the hypothesis of the 2008 recesion in the US having an effect on the house prices in university towns as much as it had on other towns. Initially three datasets (housing data, university towns, timeseries of GPD) were cleaned and merged. Then the start the end and the lowest recession quarters were calculated. Lastly a t-test was performed comparing the university town values to the non-university towns values to find whether the hypothetsis of university towns being less affected by the recession is true or not.
 
 
 
